@@ -1,0 +1,8 @@
+dist
+legacy
+reference
+node_modules
+public/docs
+package-lock.json
+test-results
+playwright-report
