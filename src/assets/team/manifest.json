@@ -1,0 +1,54 @@
+{
+  "k-v-suresh": [
+    {
+      "file": "k-v-suresh-400.webp",
+      "width": 400,
+      "height": 500
+    },
+    {
+      "file": "k-v-suresh-800.webp",
+      "width": 800,
+      "height": 1000
+    }
+  ],
+  "sandesh-g-v": [
+    {
+      "file": "sandesh-g-v-160.webp",
+      "width": 160,
+      "height": 200
+    }
+  ],
+  "sanjeev-sivakumar": [
+    {
+      "file": "sanjeev-sivakumar-320.webp",
+      "width": 320,
+      "height": 400
+    }
+  ],
+  "vikas-g-p": [
+    {
+      "file": "vikas-g-p-400.webp",
+      "width": 400,
+      "height": 500
+    }
+  ],
+  "logeshwar-p": [
+    {
+      "file": "logeshwar-p-400.webp",
+      "width": 400,
+      "height": 500
+    },
+    {
+      "file": "logeshwar-p-800.webp",
+      "width": 800,
+      "height": 1000
+    }
+  ],
+  "suhas-s": [
+    {
+      "file": "suhas-s-400.webp",
+      "width": 400,
+      "height": 500
+    }
+  ]
+}
